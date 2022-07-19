@@ -1,7 +1,7 @@
 # Projeto DIO - Página Inicial do Instagram
 Recriando a interface inicial do Instagram para o Bootcamp da DIO
 
-![image](https://user-images.githubusercontent.com/97048604/179836275-8eb6c0c6-bb44-4324-8957-1053cd12c6fc.png)
+![image](https://user-images.githubusercontent.com/97048604/179836959-fce92883-dfdc-44d2-93d5-1ecd13a8a97a.png)
 
 :seedling: Sobre
 
